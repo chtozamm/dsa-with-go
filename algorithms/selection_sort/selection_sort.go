@@ -1,4 +1,4 @@
-package main
+package selection_sort
 
 // SelectionSort makes a copy of the provided slice and returns it's sorted version.
 func SelectionSort(nums []int) []int {

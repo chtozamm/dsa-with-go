@@ -1,4 +1,4 @@
-package main
+package binary_search
 
 // BinarySearch searches for needle in a sorted slice of ints and returns its index.
 // Returns -1 if needle is not present in haystack. The slice must be sorted in ascending order.
